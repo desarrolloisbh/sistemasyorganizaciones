@@ -1,7 +1,7 @@
 # 🔰 Unidad 1: Introducción a los Sistemas
 
 
-## Los Sistemas como una Percepción de la Realidad
+## 1A - Los Sistemas como una Percepción de la Realidad
 
 ### 🔍 ¿Qué es un sistema?
 Un sistema es un conjunto de elementos interdependientes que trabajan en conjunto para alcanzar un objetivo. Los sistemas están presentes en múltiples contextos, desde los sistemas naturales como un ecosistema, hasta los sistemas artificiales como un programa de gestión de inventarios.
